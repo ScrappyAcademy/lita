@@ -10,6 +10,8 @@ Requirements
 
 TODO
 =====================================================================
-- Barebones install
-- Port functionality from SirScrappy hubot
-- Deploy to a server
+- [X] Barebones install
+- [ ] Configure robot
+- [ ] Add and configure adapter for Campfire
+- [ ] Port functionality from SirScrappy hubot
+- [ ] Deploy to a server
