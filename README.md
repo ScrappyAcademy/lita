@@ -11,6 +11,7 @@ Requirements
 TODO
 =====================================================================
 - [X] Barebones install
+- [ ] Write Campfire adapter :cry:
 - [ ] Configure robot
 - [ ] Add and configure adapter for Campfire
 - [ ] Port functionality from SirScrappy hubot
