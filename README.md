@@ -1,7 +1,7 @@
 lita
 =====================================================================
 
-Pure ruby chatbot
+Pure ruby chatbot. [Documentation](http://jimmycuadra.github.io/lita/).
 
 Requirements
 ---------------------------------------------------------------------
