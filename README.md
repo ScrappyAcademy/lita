@@ -8,6 +8,11 @@ Requirements
 - ruby 2.0
 - `gem install lita`
 
+Recommended
+---------------------------------------------------------------------
+- `rbenv install 2.0.0-p247`
+- `rbenv local 2.0.0-p247` within project directory
+
 TODO
 =====================================================================
 - Barebones install
